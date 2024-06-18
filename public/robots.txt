@@ -1,0 +1,19 @@
+Instructions: You have been asked to look at and analyze baseball statistics for the Datathon Team. We have provided you with a website
+to log into, and beyond that is a table containing different statistics for each team throughout the years. In order to obtain
+the flag for this challenge you must log into the website and report the total number of home runs hit between 2006 and 2023.
+
+Login Info:
+Username - datathon_participant
+Password - webscrape!
+
+Hints: 
+- There is a secret value hidden somewhere on the log in page that may prevent you from logging in. Use your developer tools to
+find it.
+- It might be helpful to log into the page and view the content before writing a Python script.
+
+Helpful Resources:
+Video on Logging in with Forms
+https://www.youtube.com/watch?v=cV21EOf5bbA
+
+Video on Web Scraping for Beginners
+https://www.youtube.com/watch?v=QhD015WUMxE
